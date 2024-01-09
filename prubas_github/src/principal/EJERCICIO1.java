@@ -8,6 +8,7 @@ public class EJERCICIO1 {
 		// TODO Auto-generated method stub
  int [] asientos = new int [0];
  Scanner sc = new Scanner (System.in);
+ 
 	}
 
 }
